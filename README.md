@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mandrantofit
 - 👀 I’m interested in Devops , cybersecurity and IA
-- 🌱 I learn at "Ecole Nationale d'Informatique Fianarantsoa - Madagascar "
+- 🌱 I learn Computer Science at "Ecole Nationale d'Informatique Fianarantsoa - Madagascar "
 - 💞️ My goal is to become a senior Devops
 - 📫 How to reach me , contact me : + 261 34 25 822 12
 
